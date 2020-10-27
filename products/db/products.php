@@ -225,6 +225,28 @@ $product10['images'] = array(
     "/assets/images/products/3b15c9ed-a575-4122-b906-c45020a10983_2000x_86de8c6f-7945-48dd-8b10-f94d9c35fe16_110x110@2x.png"
 );
 
+$product11 = array();
+$product11['id'] = 10;
+$product11['title'] = "Predatory Bike";
+$product11['price'] = "$60.38";
+$product11['sale_price'] = "$57.38";
+$product11['meta'] = array(
+    "style" => "Modern",
+    "classification" => "For Wall",
+    "pattern" => "Plane Wall Sticker",
+    "specifications" => "Single-piece Package",
+    "theme" => "Animal",
+    "scenerios" => "Wall",
+    "material" => "VINYL",
+    "suitable_use" => "home dacal/bathroom decor/wedding decoration/party decor",
+    "suitable_place" => "bathroom",
+    "place_of_origin" => "China",
+    "quality" => "waterproof sunscreen non-toxic environment protected"
+);
+
+$product11['featured_image'] = "/assets/images/products/pred1_180x.jpg";
+$product11['images'] = array();
+
 /**
  * Home page ends
  */
@@ -239,6 +261,7 @@ array_push($products, $product7);
 array_push($products, $product8);
 array_push($products, $product9);
 array_push($products, $product10);
+array_push($products, $product11);
 
 
 function find($id) {

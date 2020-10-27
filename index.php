@@ -71,7 +71,7 @@
 
                         <div class="grid-view-item product-card">
                             <a class="grid-view-item__link grid-view-item__image-container full-width-link"
-                                href="/collections/frontpage/products/predatory-bike"
+                                href="/products/single.php?product=11"
                                 aria-describedby="a11y-external-message">
                                 <span class="visually-hidden">Predatory Bike</span>
                             </a>
@@ -126,7 +126,7 @@
                                     </dt>
                                     <dd>
                                         <span class="price-item price-item--regular"><span
-                                                class="money notranslate">₦28,555.95</span>
+                                                class="money notranslate">$60.38</span>
                                         </span>
                                     </dd>
                                 </div>
@@ -136,7 +136,7 @@
                                     </dt>
                                     <dd>
                                         <span class="price-item price-item--sale"><span
-                                                class="money notranslate">₦28,555.95</span>
+                                                class="money notranslate">$57.38</span>
                                         </span>
                                     </dd>
                                     <div class="price__compare">
