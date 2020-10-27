@@ -145,7 +145,7 @@
                                         </dt>
                                         <dd>
                                             <s class="price-item price-item--regular">
-                                                <span class="money notranslate">$57.38</span>
+                                                <span class="money notranslate">$60.38</span>
                                             </s>
                                         </dd>
                                     </div>
