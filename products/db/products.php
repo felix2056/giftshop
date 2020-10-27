@@ -226,7 +226,7 @@ $product10['images'] = array(
 );
 
 $product11 = array();
-$product11['id'] = 10;
+$product11['id'] = 11;
 $product11['title'] = "Predatory Bike";
 $product11['price'] = "$60.38";
 $product11['sale_price'] = "$57.38";
